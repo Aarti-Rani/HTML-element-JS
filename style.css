@@ -1,0 +1,18 @@
+#add-item {
+  margin: 50px;
+  margin-left: 200px;
+  font-size: 20px;
+  background-color: midnightblue;
+  color: white;
+  height: 60px;
+  width: 200px;
+}
+#to-do {
+  font-size: 20px;
+  background-color: skyblue;
+}
+#to-do > li {
+  color: white;
+  margin: 10px;
+  padding: 20px;
+}
