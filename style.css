@@ -1,6 +1,18 @@
 #add-item {
-  margin: 50px;
-  margin-left: 200px;
+  font-size: 20px;
+  background-color: midnightblue;
+  color: white;
+  height: 60px;
+  width: 200px;
+}
+#update-item {
+  font-size: 20px;
+  background-color: midnightblue;
+  color: white;
+  height: 60px;
+  width: 200px;
+}
+#remove-item {
   font-size: 20px;
   background-color: midnightblue;
   color: white;
@@ -15,4 +27,11 @@
   color: white;
   margin: 10px;
   padding: 20px;
+}
+#todo-input {
+  font-size: 24px;
+  pading: 12px 24px;
+  margin-right: 16px;
+  border-radius: 8px;
+  border: 3px solid black;
 }
